@@ -28,8 +28,8 @@ int main()
 {
 	StringHalving sh;
 	string s;
-	//s = sh.lexsmallest("baba");
-	//  s = sh.lexsmallest("bbaa");
+	// s = sh.lexsmallest("baba");
+	// s = sh.lexsmallest("bbaa");
 	// s = sh.lexsmallest("zyiggiyssz");
 	// s = sh.lexsmallest("topcodertpcder");
  	s = sh.lexsmallest("rvofqorvfq");
